@@ -1,0 +1,119 @@
+  Scout Number  Scout Location      Game Number  Game Location        Date      Team 1                Team 2                   Game Weight
+--------------  ----------------  -------------  -------------------  --------  --------------------  ---------------------  -------------
+             0  Charlotte, NC               403  Conway,SC            11/18/21  East Carolina         Oklahoma                           2
+             0  Charlotte, NC               504  Charleston,SC        11/21/21  Mississippi           Boise State                        9
+             0  Charlotte, NC              1304  Greenville,NC        12/21/21  East Carolina         Southern Mississippi               2
+             0  Charlotte, NC              1545  Highland Heights,KY  1/1/22    Northern Kentucky     UW Milwaukee                       6
+             0  Charlotte, NC              1622  Winston-Salem,NC     1/4/22    Wake Forest           Florida State                     14
+             0  Charlotte, NC              1761  Macomb,IL            1/8/22    Not a priority team   Oral Roberts                       5
+             0  Charlotte, NC              1888  Huntington,WV        1/13/22   Marshall              North Texas                        6
+             0  Charlotte, NC              1934  Nashville,TN         1/15/22   Belmont               Murray State                       7
+             0  Charlotte, NC              2219  Athens,GA            1/25/22   Georgia               Alabama                           23
+             0  Charlotte, NC              2254  Evansville,IN        1/26/22   Evansville            Northern Iowa                      4
+             0  Charlotte, NC              2271  Boone,NC             1/27/22   Appalachian State     Arkansas State                     2
+             0  Charlotte, NC              2420  Knoxville,TN         2/1/22    Tennessee             Texas A&M                         24
+             0  Charlotte, NC              2477  Charlotte,NC         2/3/22    Charlotte             Western Kentucky                   3
+             0  Charlotte, NC              2720  Rock Hill,SC         2/12/22   Winthrop              Presbyterian                       2
+             0  Charlotte, NC              2853  Conway,SC            2/17/22   Coastal Carolina      South Alabama                      4
+             0  Charlotte, NC              2930  Davidson,NC          2/19/22   Davidson              St. Louis                          8
+             1  Charlotte, NC               399  Columbia,SC          11/18/21  South Carolina        UAB                                5
+             1  Charlotte, NC               687  Davidson,NC          11/27/21  Davidson              Robert Morris (PA)                 6
+             1  Charlotte, NC               811  Athens,GA            12/1/21   Georgia               Memphis                           30
+             1  Charlotte, NC               960  Rock Hill,SC         12/7/21   Winthrop              Furman                             2
+             1  Charlotte, NC              1488  Boone,NC             12/30/21  Appalachian State     Louisiana Lafayette                5
+             1  Charlotte, NC              1617  Columbia,SC          1/4/22    South Carolina        Auburn                            18
+             1  Charlotte, NC              1895  Charlotte,NC         1/13/22   Charlotte             UTEP                               2
+             1  Charlotte, NC              1931  Columbia,SC          1/15/22   South Carolina        Florida                           11
+             1  Charlotte, NC              2247  Columbia,SC          1/26/22   South Carolina        Vanderbilt                         5
+             1  Charlotte, NC              2445  Athens,GA            2/2/22    Georgia               Arkansas                           9
+             1  Charlotte, NC              2680  Charlotte,NC         2/10/22   Charlotte             Louisiana Tech                     2
+             1  Charlotte, NC              2732  Winston-Salem,NC     2/12/22   Wake Forest           Miami (FL)                         8
+             1  Charlotte, NC              2931  Columbia,SC          2/19/22   South Carolina        LSU                               13
+             1  Charlotte, NC              2988  Chapel Hill,NC       2/21/22   North Carolina        Louisville                        27
+             1  Charlotte, NC              3013  Columbia,SC          2/23/22   South Carolina        Mississippi State                 13
+             1  Charlotte, NC              3134  Charlotte,NC         2/26/22   Charlotte             Florida Atlantic                   2
+             1  Charlotte, NC              3192  Columbia,SC          3/1/22    South Carolina        Missouri                           4
+             1  Charlotte, NC              3214  Clemson,SC           3/2/22    Clemson               Georgia Tech                       4
+             2  Washington, DC               28  Fairfax,VA           11/9/21   George Mason          Stony Brook                        3
+             2  Washington, DC              253  Washington,DC        11/13/21  Michigan              Not a priority team               25
+             2  Washington, DC              813  College Park,MD      12/1/21   Maryland              Virginia Tech                      7
+             2  Washington, DC              928  College Park,MD      12/5/21   Maryland              Northwestern                       7
+             2  Washington, DC             1045  Washington,DC        12/11/21  Georgetown            Syracuse                           8
+             2  Washington, DC             1194  Baltimore,MD         12/16/21  Not a priority team   UNC Greensboro                     1
+             2  Washington, DC             1231  Washington,DC        12/18/21  Georgetown            TCU                               10
+             2  Washington, DC             1709  Washington,DC        1/7/22    Georgetown            Marquette                          8
+             2  Washington, DC             1750  Morgantown,WV        1/8/22    West Virginia         Kansas State                       3
+             2  Washington, DC             1806  College Park,MD      1/9/22    Maryland              Wisconsin                          6
+             2  Washington, DC             1890  Washington,DC        1/13/22   Georgetown            Butler                             3
+             2  Washington, DC             2014  Washington,DC        1/17/22   Howard                Notre Dame                         3
+             2  Washington, DC             2025  Morgantown,WV        1/18/22   West Virginia         Baylor                            25
+             2  Washington, DC             2108  College Park,MD      1/21/22   Maryland              Illinois                          17
+             2  Washington, DC             2184  Fairfax,VA           1/22/22   George Mason          Dayton                             8
+             2  Washington, DC             2345  College Park,MD      1/29/22   Maryland              Indiana                           26
+             2  Washington, DC             2419  College Park,MD      2/1/22    Maryland              Michigan State                    23
+             2  Washington, DC             2434  Washington,DC        2/2/22    George Washington     La Salle                           6
+             2  Washington, DC             2594  Washington,DC        2/6/22    Georgetown            Providence                         5
+             2  Washington, DC             2681  College Park,MD      2/10/22   Maryland              Iowa                              12
+             2  Washington, DC             2703  Washington,DC        2/12/22   Georgetown            Creighton                          4
+             2  Washington, DC             2909  Washington,DC        2/19/22   George Washington     Rhode Island                       7
+             2  Washington, DC             2987  College Park,MD      2/21/22   Maryland              Penn State                         8
+             2  Washington, DC             2993  Washington,DC        2/22/22   George Washington     Richmond                           6
+             2  Washington, DC             3028  Lynchburg,VA         2/23/22   Liberty               Florida Gulf Coast                 2
+             2  Washington, DC             3063  Washington,DC        2/24/22   Georgetown            Depaul                            12
+             2  Washington, DC             3178  College Park,MD      2/27/22   Maryland              Ohio State                        15
+             2  Washington, DC             3195  Buffalo,NY           3/1/22    Buffalo               Toledo                             4
+             2  Washington, DC             3208  Washington,DC        3/2/22    George Washington     Duquesne                           4
+             2  Washington, DC             3295  Fairfax,VA           3/5/22    George Mason          Umass                              3
+             3  New York, NY                106  New York,NY          11/9/21   Duke                  Kentucky                          51
+             3  New York, NY                264  Newark,NJ            11/14/21  Seton Hall            Yale                               6
+             3  New York, NY                372  New York,NY          11/17/21  Not a priority team   Binghamton                         1
+             3  New York, NY                556  Newark,NJ            11/22/21  Georgia               Virginia                           8
+             3  New York, NY                626  Brooklyn,NY          11/24/21  Xavier (OH)           Iowa State                         7
+             3  New York, NY                693  Hempstead,NY         11/27/21  Hofstra               Detroit Mercy                      6
+             3  New York, NY                858  Queens,NY            12/3/21   St. Johns (NY)        Kansas                            17
+             3  New York, NY                977  New York,NY          12/7/21   Tennessee             Texas Tech                        30
+             3  New York, NY               1030  Newark,NJ            12/9/21   Seton Hall            Texas                             19
+             3  New York, NY               1073  Newark,NJ            12/11/21  St. Bonaventure       Connecticut                       18
+             3  New York, NY               1117  Brooklyn,NY          12/12/21  North Carolina State  Purdue                            18
+             3  New York, NY               1182  Philadelphia,PA      12/15/21  Not a priority team   UCF                                4
+             3  New York, NY               1214  New York,NY          12/18/21  Pittsburgh            St. Johns (NY)                     6
+             3  New York, NY               1603  Philadelphia,PA      1/2/22    Not a priority team   Houston                            7
+             3  New York, NY               1613  Hempstead,NY         1/3/22    Hofstra               UNC Wilmington                     5
+             3  New York, NY               1662  Hempstead,NY         1/5/22    Hofstra               College of Charleston              3
+             3  New York, NY               1711  New York,NY          1/7/22    Not a priority team   Princeton                          3
+             3  New York, NY               1754  Piscataway,NJ        1/8/22    Rutgers               Nebraska                          16
+             3  New York, NY               2057  Philadelphia,PA      1/19/22   Not a priority team   Wichita State                      2
+             3  New York, NY               2224  Philadelphia,PA      1/25/22   Not a priority team   Cincinnati                         4
+             3  New York, NY               2547  Hempstead,NY         2/5/22    Hofstra               James Madison                      3
+             3  New York, NY               2812  Bronx,NY             2/15/22   Fordham               VCU                                2
+             3  New York, NY               2849  Philadelphia,PA      2/16/22   Not a priority team   Southern Methodist                 2
+             3  New York, NY               2887  New York,NY          2/18/22   Not a priority team   Harvard                            1
+             3  New York, NY               3146  New York,NY          2/26/22   Not a priority team   Brown                              1
+             3  New York, NY               3240  Bronx,NY             3/3/22    Not a priority team   Iona                               1
+             3  New York, NY               3316  Philadelphia,PA      3/6/22    Not a priority team   South Florida                      1
+             4  Los Angeles, CA             111  Los Angeles,CA       11/9/21   Loyola Marymount      Chattanooga                        2
+             4  Los Angeles, CA             217  Los Angeles,CA       11/12/21  UCLA                  Villanova                         34
+             4  Los Angeles, CA             317  Paradise,NV          11/15/21  UNLV                  North Dakota State                 7
+             4  Los Angeles, CA             566  Long Beach,CA        11/22/21  Not a priority team   Missouri State                     1
+             4  Los Angeles, CA             658  Riverside,CA         11/26/21  Not a priority team   Florida A&M                        1
+             4  Los Angeles, CA             755  Los Angeles,CA       11/29/21  Loyola Marymount      Grand Canyon                       5
+             4  Los Angeles, CA             988  Los Angeles,CA       12/7/21   USC                   Eastern Kentucky                  13
+             4  Los Angeles, CA            1192  Los Angeles,CA       12/15/21  UCLA                  Alabama State                     18
+             4  Los Angeles, CA            1348  Los Angeles,CA       12/21/21  USC                   Oklahoma State                    29
+             4  Los Angeles, CA            1519  Los Angeles,CA       12/30/21  USC                   Arizona State                     21
+             4  Los Angeles, CA            1543  Los Angeles,CA       1/1/22    Loyola Marymount      Gonzaga                           30
+             4  Los Angeles, CA            1602  Los Angeles,CA       1/2/22    USC                   Arizona                           24
+             4  Los Angeles, CA            1912  Los Angeles,CA       1/13/22   USC                   Oregon State                      16
+             4  Los Angeles, CA            2000  Los Angeles,CA       1/15/22   USC                   Oregon                            27
+             4  Los Angeles, CA            2123  Malibu,CA            1/22/22   Not a priority team   San Francisco                      1
+             4  Los Angeles, CA            2233  Northridge,CA        1/25/22   Not a priority team   UC Santa Barbara                   1
+             4  Los Angeles, CA            2291  Los Angeles,CA       1/27/22   UCLA                  California                        18
+             4  Los Angeles, CA            2392  Los Angeles,CA       1/29/22   UCLA                  Stanford                          26
+             4  Los Angeles, CA            2507  Fresno,CA            2/4/22    Fresno State          Nevada Reno                        9
+             4  Los Angeles, CA            2629  Long Beach,CA        2/8/22    Not a priority team   CS Fullerton                       1
+             4  Los Angeles, CA            2685  Riverside,CA         2/10/22   California Baptist    Lamar                              2
+             4  Los Angeles, CA            2708  Malibu,CA            2/12/22   Not a priority team   BYU                                2
+             4  Los Angeles, CA            2879  Los Angeles,CA       2/17/22   UCLA                  Washington State                  26
+             4  Los Angeles, CA            2968  Los Angeles,CA       2/19/22   UCLA                  Washington                        24
+             4  Los Angeles, CA            3205  San Diego,CA         3/1/22    San Diego State       Colorado State                     9
+             4  Los Angeles, CA            3308  Salt Lake City,UT    3/5/22    Utah                  Colorado                          10

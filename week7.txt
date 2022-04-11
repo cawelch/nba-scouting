@@ -1,0 +1,16 @@
+  Scout Number  Scout Location      Game Number  Game Location    Date      Team 1               Team 2                  Game Weight
+--------------  ----------------  -------------  ---------------  --------  -------------------  --------------------  -------------
+             0  Charlotte, NC                 7  Charlotte,NC     12/20/21  Charlotte            Not a priority team       0.0163934
+             0  Charlotte, NC                51  Dallas,TX        12/21/21  Southern Methodist   Evansville                3
+             0  Charlotte, NC               102  Knoxville,TN     12/22/21  Tennessee            Arizona                   0.747753
+             1  Charlotte, NC                12  Greenville,NC    12/21/21  East Carolina        Southern Mississippi      1.03226
+             1  Charlotte, NC                99  Wichita,KS       12/22/21  Wichita State        Not a priority team       2
+             2  Washington, DC               45  Toledo,OH        12/21/21  Toledo               Marshall                  1.16129
+             2  Washington, DC               83  Auburn,AL        12/22/21  Auburn               Murray State              1.48387
+             2  Washington, DC              128  Piscataway,NJ    12/23/21  Rutgers              Not a priority team       0.147541
+             3  New York, NY                 11  Newark,NJ        12/20/21  Seton Hall           St. Johns (NY)            0.243258
+             3  New York, NY                 27  Binghamton,NY    12/21/21  Binghamton           Not a priority team       1
+             3  New York, NY                 68  Amherst,MA       12/22/21  Umass                Not a priority team       1
+             3  New York, NY                126  Madison,WI       12/23/21  Wisconsin            Not a priority team       1
+             4  Los Angeles, CA              63  Corvallis,OR     12/21/21  Oregon State         Not a priority team       4
+             4  Los Angeles, CA             118  Moraga,CA        12/22/21  Not a priority team  Missouri State            1

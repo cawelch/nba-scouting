@@ -1,0 +1,25 @@
+  Scout Number  Scout Location      Game Number  Game Location       Date     Team 1             Team 2                 Game Weight
+--------------  ----------------  -------------  ------------------  -------  -----------------  -------------------  -------------
+             0  Charlotte, NC                21  Nashville,TN        1/11/22  Vanderbilt         Kentucky                  2.69697
+             0  Charlotte, NC                47  Winston-Salem,NC    1/12/22  Wake Forest        Duke                      1.44048
+             0  Charlotte, NC                81  Charlotte,NC        1/13/22  Charlotte          UTEP                      0.229167
+             0  Charlotte, NC               162  Starkville,MS       1/15/22  Mississippi State  Alabama                   2.91667
+             0  Charlotte, NC               188  Columbus,OH         1/16/22  Ohio State         Penn State                1.09659
+             1  Charlotte, NC                 7  Knoxville,TN        1/11/22  Tennessee          South Carolina            1.32035
+             1  Charlotte, NC                51  Orlando,FL          1/12/22  UCF                Memphis                   1.9375
+             1  Charlotte, NC               102  West Lafayette,IN   1/14/22  Purdue             Nebraska                  1.85417
+             1  Charlotte, NC               180  Chapel Hill,NC      1/15/22  North Carolina     Georgia Tech              1.90909
+             2  Washington, DC                2  Washington,DC       1/10/22  Howard             Not a priority team       0.166667
+             2  Washington, DC               33  Morgantown,WV       1/11/22  West Virginia      Oklahoma State            3.16667
+             2  Washington, DC               63  Charlottesville,VA  1/12/22  Virginia           Virginia Tech             0.494318
+             2  Washington, DC               92  Iowa City,IA        1/13/22  Iowa               Indiana                   2.47917
+             2  Washington, DC              100  Richmond,VA         1/14/22  Richmond           Davidson                  0.954545
+             2  Washington, DC              137  College Park,MD     1/15/22  Maryland           Rutgers                   0.741071
+             3  New York, NY                 19  Philadelphia,PA     1/11/22  La Salle           St. Bonaventure           0.833333
+             3  New York, NY                 57  Storrs,CT           1/12/22  Connecticut        St. Johns (NY)            0.879808
+             3  New York, NY                104  Champaign,IL        1/14/22  Illinois           Michigan                  3.5625
+             3  New York, NY                130  Syracuse,NY         1/15/22  Syracuse           Florida State             1.54545
+             3  New York, NY                187  Philadelphia,PA     1/16/22  Villanova          Butler                    1.39583
+             4  Los Angeles, CA               8  Waco,TX             1/11/22  Baylor             Texas Tech                4.56061
+             4  Los Angeles, CA              94  Los Angeles,CA      1/13/22  UCLA               Oregon                    3.30952
+             4  Los Angeles, CA             186  Los Angeles,CA      1/15/22  USC                Oregon                    3.25

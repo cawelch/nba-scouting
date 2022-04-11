@@ -1,0 +1,28 @@
+  Scout Number  Scout Location      Game Number  Game Location       Date      Team 1                 Team 2                 Game Weight
+--------------  ----------------  -------------  ------------------  --------  ---------------------  -------------------  -------------
+             0  Charlotte, NC                95  Tuscaloosa,AL       11/9/21   Alabama                Louisiana Tech                  21
+             0  Charlotte, NC               143  Charleston,SC       11/11/21  College of Charleston  Not a priority team              1
+             0  Charlotte, NC               210  Asheville,NC        11/12/21  South Carolina         Princeton                        6
+             0  Charlotte, NC               225  Raleigh,NC          11/13/21  North Carolina State   Not a priority team              7
+             0  Charlotte, NC               267  Gainesville,FL      11/14/21  Florida                Florida State                   18
+             1  Charlotte, NC                57  Auburn,AL           11/9/21   Auburn                 Not a priority team             15
+             1  Charlotte, NC               124  Winston-Salem,NC    11/10/21  Wake Forest            Not a priority team              4
+             1  Charlotte, NC               209  Chapel Hill,NC      11/12/21  North Carolina         Brown                           19
+             1  Charlotte, NC               245  Memphis,TN          11/13/21  Memphis                Not a priority team             27
+             1  Charlotte, NC               265  Knoxville,TN        11/14/21  Tennessee              Not a priority team             22
+             2  Washington, DC               32  New York,NY         11/9/21   Michigan State         Kansas                          30
+             2  Washington, DC              126  Piscataway,NJ       11/10/21  Rutgers                Not a priority team              9
+             2  Washington, DC              141  College Park,MD     11/11/21  Maryland               George Washington                8
+             2  Washington, DC              171  Bloomington,IN      11/12/21  Indiana                Not a priority team             21
+             2  Washington, DC              253  Washington,DC       11/13/21  Michigan               Not a priority team             25
+             2  Washington, DC              275  St. Bonaventure,NY  11/14/21  St. Bonaventure        Not a priority team              7
+             3  New York, NY                106  New York,NY         11/9/21   Duke                   Kentucky                        51
+             3  New York, NY                125  Newark,NJ           11/10/21  Seton Hall             Not a priority team              5
+             3  New York, NY                142  Providence,RI       11/11/21  Providence             Not a priority team              4
+             3  New York, NY                208  Champaign,IL        11/12/21  Illinois               Arkansas State                  13
+             3  New York, NY                219  Hartford,CT         11/13/21  Connecticut            Not a priority team             11
+             3  New York, NY                276  Syracuse,NY         11/14/21  Syracuse               Not a priority team              7
+             4  Los Angeles, CA              99  Los Angeles,CA      11/9/21   USC                    Not a priority team             12
+             4  Los Angeles, CA             138  Paradise,NV         11/10/21  UNLV                   Not a priority team              6
+             4  Los Angeles, CA             217  Los Angeles,CA      11/12/21  UCLA                   Villanova                       34
+             4  Los Angeles, CA             263  Spokane,WA          11/13/21  Gonzaga                Texas                           43

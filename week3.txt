@@ -1,0 +1,26 @@
+  Scout Number  Scout Location      Game Number  Game Location       Date      Team 1               Team 2                 Game Weight
+--------------  ----------------  -------------  ------------------  --------  -------------------  -------------------  -------------
+             0  Charlotte, NC                36  Baton Rouge,LA      11/22/21  LSU                  Belmont                   16
+             0  Charlotte, NC               126  West Lafayette,IN   11/26/21  Purdue               Not a priority team       11
+             0  Charlotte, NC               153  Davidson,NC         11/27/21  Davidson             Robert Morris (PA)         6
+             1  Charlotte, NC                64  Huntington,WV       11/23/21  Marshall             Louisiana Lafayette        9
+             1  Charlotte, NC                89  Greensboro,NC       11/24/21  UNC Greensboro       Not a priority team        1
+             1  Charlotte, NC               132  Tulsa,OK            11/26/21  Oral Roberts         Oklahoma State            22
+             1  Charlotte, NC               166  Spartanburg,SC      11/27/21  Not a priority team  Furman                     1
+             2  Washington, DC               19  Richmond,VA         11/22/21  Richmond             Hofstra                    5
+             2  Washington, DC              102  Pittsburgh,PA       11/24/21  Pittsburgh           Vanderbilt                 3
+             2  Washington, DC              133  Chicago,IL          11/26/21  Depaul               Northern Kentucky         12
+             2  Washington, DC              155  St. Bonaventure,NY  11/27/21  St. Bonaventure      Northern Iowa              3.22581
+             2  Washington, DC              204  Philadelphia,PA     11/28/21  La Salle             Villanova                  3.54839
+             3  New York, NY                 22  Newark,NJ           11/22/21  Georgia              Virginia                   8
+             3  New York, NY                 58  Queens,NY           11/23/21  St. Johns (NY)       Not a priority team        5
+             3  New York, NY                 92  Brooklyn,NY         11/24/21  Xavier (OH)          Iowa State                 7
+             3  New York, NY                119  Nassau,Bahamas      11/25/21  Mississippi State    Louisville                19
+             3  New York, NY                159  Hempstead,NY        11/27/21  Hofstra              Detroit Mercy              6
+             3  New York, NY                191  New Haven,CT        11/28/21  Yale                 Stony Brook                2
+             4  Los Angeles, CA              40  Las Vegas,NV        11/22/21  Not a priority team  Oregon                    15
+             4  Los Angeles, CA              74  Stanford,CA         11/23/21  Stanford             Not a priority team        9
+             4  Los Angeles, CA              93  Tempe,AZ            11/24/21  Arizona State        Baylor                    32
+             4  Los Angeles, CA             122  Anaheim,CA          11/25/21  San Diego State      Georgetown                 4
+             4  Los Angeles, CA             147  Paradise,NV         11/26/21  Gonzaga              Duke                       1.74194
+             4  Los Angeles, CA             170  Malibu,CA           11/27/21  Not a priority team  Grand Canyon               4

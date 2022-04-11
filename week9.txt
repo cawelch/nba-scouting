@@ -1,0 +1,28 @@
+  Scout Number  Scout Location      Game Number  Game Location     Date    Team 1               Team 2                 Game Weight
+--------------  ----------------  -------------  ----------------  ------  -------------------  -------------------  -------------
+             0  Charlotte, NC                26  Durham,NC         1/4/22  Duke                 Georgia Tech             0.371499
+             0  Charlotte, NC                57  Knoxville,TN      1/5/22  Tennessee            Mississippi              0.499823
+             0  Charlotte, NC                85  Beaumont,TX       1/6/22  Lamar                Not a priority team      1
+             0  Charlotte, NC               141  Winston-Salem,NC  1/8/22  Wake Forest          Syracuse                 0.29138
+             1  Charlotte, NC                 9  Columbia,SC       1/4/22  South Carolina       Auburn                   0.261609
+             1  Charlotte, NC                47  Gainesville,FL    1/5/22  Florida              Alabama                  0.585933
+             1  Charlotte, NC                80  Bloomington,IN    1/6/22  Indiana              Ohio State               0.666843
+             1  Charlotte, NC               121  Jacksonville,FL   1/8/22  Not a priority team  Florida Gulf Coast       1
+             2  Washington, DC               13  Washington,DC     1/4/22  Georgetown           Xavier (OH)              0.0809096
+             2  Washington, DC               48  Fairfax,VA        1/5/22  George Mason         Rhode Island             0.193548
+             2  Washington, DC               83  Denton,TX         1/6/22  North Texas          UAB                      1.03279
+             2  Washington, DC              101  Washington,DC     1/7/22  Georgetown           Marquette                0.131148
+             2  Washington, DC              110  Washington,DC     1/8/22  George Washington    Dayton                   0.226515
+             2  Washington, DC              198  College Park,MD   1/9/22  Maryland             Wisconsin                0.114225
+             3  New York, NY                  5  Hempstead,NY      1/3/22  Hofstra              UNC Wilmington           0.129561
+             3  New York, NY                 17  Piscataway,NJ     1/4/22  Rutgers              Michigan                 0.508737
+             3  New York, NY                 37  Queens,NY         1/5/22  St. Johns (NY)       Depaul                   0.396161
+             3  New York, NY                 76  Stony Brook,NY    1/6/22  Stony Brook          Not a priority team      0.0322581
+             3  New York, NY                103  New York,NY       1/7/22  Not a priority team  Princeton                0.0967742
+             3  New York, NY                111  Newark,NJ         1/8/22  Seton Hall           Connecticut              0.235273
+             3  New York, NY                201  Memphis,TN        1/9/22  Memphis              Cincinnati               0.571655
+             4  Los Angeles, CA              30  Fullerton,CA      1/4/22  CS Fullerton         Not a priority team      0.0322581
+             4  Los Angeles, CA              68  San Diego,CA      1/5/22  San Diego State      Fresno State             0.225806
+             4  Los Angeles, CA              93  Stanford,CA       1/6/22  Stanford             UCLA                     0.334354
+             4  Los Angeles, CA             106  Boise,ID          1/7/22  Boise State          Colorado State           1.19355
+             4  Los Angeles, CA             166  San Diego,CA      1/8/22  San Diego State      Nevada Reno              0.258065

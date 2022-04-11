@@ -1,0 +1,21 @@
+  Scout Number  Scout Location      Game Number  Game Location     Date      Team 1               Team 2                 Game Weight
+--------------  ----------------  -------------  ----------------  --------  -------------------  -------------------  -------------
+             0  Charlotte, NC                25  Birmingham,AL     12/14/21  UAB                  Not a priority team      2
+             0  Charlotte, NC                40  Richmond,VA       12/15/21  VCU                  Florida Atlantic         1.03226
+             0  Charlotte, NC                62  Durham,NC         12/16/21  Duke                 Appalachian State        0.442094
+             0  Charlotte, NC                71  Blacksburg,VA     12/17/21  Virginia Tech        St. Bonaventure          0.17927
+             0  Charlotte, NC               105  Bowling Green,KY  12/18/21  Western Kentucky     Louisville               2.29032
+             1  Charlotte, NC                 9  Mobile,AL         12/14/21  South Alabama        Not a priority team      3
+             1  Charlotte, NC                43  Clinton,SC        12/15/21  Presbyterian         Not a priority team      0.0322581
+             1  Charlotte, NC                70  Greenville,NC     12/17/21  East Carolina        Liberty                  1.03226
+             1  Charlotte, NC                84  Indianapolis,IN   12/18/21  Purdue               Butler                   2.18033
+             2  Washington, DC                1  Washington,DC     12/13/21  George Washington    Not a priority team      0.0967742
+             2  Washington, DC               46  Washington,DC     12/15/21  Georgetown           Howard                   1.03226
+             2  Washington, DC              116  Fort Worth,TX     12/18/21  Not a priority team  Colorado State           6
+             3  New York, NY                 31  Omaha,NE          12/14/21  Creighton            Arizona State            3.29032
+             3  New York, NY                 51  Philadelphia,PA   12/15/21  Not a priority team  UCF                      0.129032
+             3  New York, NY                 83  New York,NY       12/18/21  Pittsburgh           St. Johns (NY)           0.193548
+             4  Los Angeles, CA              61  Los Angeles,CA    12/15/21  UCLA                 Alabama State            0.580645
+             4  Los Angeles, CA              78  Stockton,CA       12/17/21  Not a priority team  North Dakota State       1
+             4  Los Angeles, CA             113  Pullman,WA        12/18/21  Washington State     Not a priority team      9
+             4  Los Angeles, CA             147  Irvine,CA         12/19/21  Not a priority team  Duquesne                 1

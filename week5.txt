@@ -1,0 +1,24 @@
+  Scout Number  Scout Location      Game Number  Game Location    Date      Team 1                Team 2                 Game Weight
+--------------  ----------------  -------------  ---------------  --------  --------------------  -------------------  -------------
+             0  Charlotte, NC                33  Fayetteville,AR  12/7/21   Arkansas              Charlotte                 6.03226
+             0  Charlotte, NC                51  Asheville,NC     12/8/21   Not a priority team   Chattanooga               1
+             0  Charlotte, NC               125  Jacksonville,FL  12/11/21  Not a priority team   UNC Wilmington            3
+             1  Charlotte, NC                32  St. Louis,MO     12/7/21   St. Louis             Belmont                   3.19355
+             1  Charlotte, NC                48  Blacksburg,VA    12/8/21   Virginia Tech         Not a priority team       2
+             1  Charlotte, NC                89  Greenville,SC    12/10/21  Furman                Appalachian State         1.03226
+             1  Charlotte, NC               154  Tuscaloosa,AL    12/11/21  Alabama               Houston                   7.64516
+             2  Washington, DC               14  Harrisonburg,VA  12/7/21   James Madison         Virginia                  1.08197
+             2  Washington, DC               42  Richmond,VA      12/8/21   VCU                   Not a priority team       1
+             2  Washington, DC              118  Orlando,FL       12/11/21  UCF                   Not a priority team       4
+             2  Washington, DC              169  Akron,OH         12/12/21  Not a priority team   Florida A&M               1
+             3  New York, NY                  2  Allston,MA       12/6/21   Harvard               Not a priority team       1
+             3  New York, NY                 28  New York,NY      12/7/21   Tennessee             Texas Tech                0.967742
+             3  New York, NY                 59  Morgantown,WV    12/8/21   West Virginia         Connecticut               2.35484
+             3  New York, NY                 83  Bronx,NY         12/9/21   Fordham               Not a priority team       1
+             3  New York, NY                133  South Bend,IN    12/11/21  Notre Dame            Kentucky                  2.83871
+             3  New York, NY                168  Brooklyn,NY      12/12/21  North Carolina State  Purdue                    0.469593
+             4  Los Angeles, CA              39  Los Angeles,CA   12/7/21   USC                   Eastern Kentucky          1.19672
+             4  Los Angeles, CA              73  Berkeley,CA      12/8/21   California            Not a priority team       1
+             4  Los Angeles, CA              94  Boulder,CO       12/10/21  Colorado              UW Milwaukee              9
+             4  Los Angeles, CA             153  Fullerton,CA     12/11/21  CS Fullerton          Not a priority team       1
+             4  Los Angeles, CA             181  Riverside,CA     12/12/21  Not a priority team   California Baptist        1

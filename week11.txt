@@ -1,0 +1,26 @@
+  Scout Number  Scout Location      Game Number  Game Location     Date     Team 1               Team 2                Game Weight
+--------------  ----------------  -------------  ----------------  -------  -------------------  ------------------  -------------
+             0  Charlotte, NC                39  Gainesville,FL    1/19/22  Florida              Mississippi State       1.63636
+             0  Charlotte, NC                76  Memphis,TN        1/20/22  Memphis              Southern Methodist      1.61905
+             0  Charlotte, NC               128  Auburn,AL         1/22/22  Auburn               Kentucky                2.33929
+             1  Charlotte, NC                12  Tallahassee,FL    1/17/22  Florida State        Duke                    1.58654
+             1  Charlotte, NC                34  Nashville,TN      1/18/22  Vanderbilt           Tennessee               1.02797
+             1  Charlotte, NC                40  Tuscaloosa,AL     1/19/22  Alabama              LSU                     1.86147
+             1  Charlotte, NC               178  Winston-Salem,NC  1/22/22  Wake Forest          North Carolina          1.31548
+             2  Washington, DC                5  Washington,DC     1/17/22  Howard               Notre Dame              0.424242
+             2  Washington, DC               16  Morgantown,WV     1/18/22  West Virginia        Baylor                  2.27273
+             2  Washington, DC               49  Bryn Mawr,PA      1/19/22  Villanova            Marquette               1.24702
+             2  Washington, DC               75  Harrisonburg,VA   1/20/22  James Madison        UNC Wilmington          0.363636
+             2  Washington, DC               99  College Park,MD   1/21/22  Maryland             Illinois                1.329
+             2  Washington, DC              113  Columbus,OH       1/22/22  Ohio State           Nebraska                1.26136
+             2  Washington, DC              191  Bloomington,IN    1/23/22  Indiana              Michigan                2.19048
+             3  New York, NY                  4  New Haven,CT      1/17/22  Yale                 Brown                   0.333333
+             3  New York, NY                 33  Newark,NJ         1/18/22  Seton Hall           Providence              0.488095
+             3  New York, NY                 52  Piscataway,NJ     1/19/22  Rutgers              Iowa                    0.982517
+             3  New York, NY                100  Madison,WI        1/21/22  Wisconsin            Michigan State          1.72727
+             3  New York, NY                175  Fairfax,VA        1/22/22  George Mason         Dayton                  0.727273
+             3  New York, NY                195  Hamden,CT         1/23/22  Not a priority team  Iona                    0.0909091
+             4  Los Angeles, CA              32  San Diego,CA      1/18/22  San Diego State      UNLV                    1.1875
+             4  Los Angeles, CA              67  Stockton,CA       1/20/22  Not a priority team  Gonzaga                 1.8125
+             4  Los Angeles, CA             114  Malibu,CA         1/22/22  Not a priority team  San Francisco           0.166667
+             4  Los Angeles, CA             201  Eugene,OR         1/23/22  Oregon               Washington              2.10417

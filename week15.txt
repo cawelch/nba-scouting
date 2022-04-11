@@ -1,0 +1,29 @@
+  Scout Number  Scout Location      Game Number  Game Location       Date     Team 1               Team 2                 Game Weight
+--------------  ----------------  -------------  ------------------  -------  -------------------  -------------------  -------------
+             0  Charlotte, NC                 4  Lawrence,KS         2/14/22  Kansas               Oklahoma State            1.8125
+             0  Charlotte, NC                 6  Durham,NC           2/15/22  Duke                 Wake Forest               0.697324
+             0  Charlotte, NC                44  Chapel Hill,NC      2/16/22  North Carolina       Pittsburgh                0.590909
+             0  Charlotte, NC                54  Conway,SC           2/17/22  Coastal Carolina     South Alabama             0.439394
+             0  Charlotte, NC               131  Davidson,NC         2/19/22  Davidson             St. Louis                 0.510823
+             1  Charlotte, NC                 2  Blacksburg,VA       2/14/22  Virginia Tech        Virginia                  0.256528
+             1  Charlotte, NC                25  Knoxville,TN        2/15/22  Tennessee            Kentucky                  1.25881
+             1  Charlotte, NC                31  Tuscaloosa,AL       2/16/22  Alabama              Mississippi State         0.963995
+             1  Charlotte, NC                66  Nashville,TN        2/17/22  Belmont              Not a priority team       0.545455
+             1  Charlotte, NC               132  Columbia,SC         2/19/22  South Carolina       LSU                       0.767857
+             2  Washington, DC                3  Princess Anne,MD    2/14/22  Not a priority team  Howard                    0.047619
+             2  Washington, DC                5  University Park,PA  2/15/22  Penn State           Michigan State            0.677419
+             2  Washington, DC               36  Louisville,KY       2/16/22  Louisville           Miami (FL)                0.792208
+             2  Washington, DC               53  Cincinnati,OH       2/17/22  Cincinnati           Wichita State             0.52381
+             2  Washington, DC               87  Richmond,VA         2/18/22  VCU                  Richmond                  0.278409
+             2  Washington, DC              110  Washington,DC       2/19/22  George Washington    Rhode Island              0.365385
+             3  New York, NY                 19  Providence,RI       2/15/22  Providence           Villanova                 0.543666
+             3  New York, NY                 40  Piscataway,NJ       2/16/22  Rutgers              Illinois                  0.681051
+             3  New York, NY                 68  Iowa City,IA        2/17/22  Iowa                 Michigan                  0.878987
+             3  New York, NY                 84  Princeton,NJ        2/18/22  Princeton            Brown                     0.363636
+             3  New York, NY                163  Newark,NJ           2/19/22  Seton Hall           Depaul                    0.662698
+             3  New York, NY                182  Bronx,NY            2/20/22  Fordham              George Mason              0.127016
+             4  Los Angeles, CA              26  San Diego,CA        2/15/22  San Diego State      Not a priority team       0.142857
+             4  Los Angeles, CA              52  Fresno,CA           2/16/22  Fresno State         UNLV                      0.565476
+             4  Los Angeles, CA              71  Tuscon,AZ           2/17/22  Arizona              Oregon State              1.41667
+             4  Los Angeles, CA             171  Stanford,CA         2/19/22  Stanford             Colorado                  0.956989
+             4  Los Angeles, CA             186  Los Angeles,CA      2/20/22  USC                  Washington State          1.20528

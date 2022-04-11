@@ -1,0 +1,24 @@
+  Scout Number  Scout Location      Game Number  Game Location       Date      Team 1                Team 2                 Game Weight
+--------------  ----------------  -------------  ------------------  --------  --------------------  -------------------  -------------
+             0  Charlotte, NC                52  College Station,TX  12/29/21  Texas A&M             Not a priority team      2
+             0  Charlotte, NC                67  Boone,NC            12/30/21  Appalachian State     Louisiana Lafayette      0.145426
+             0  Charlotte, NC               101  Rock Hill,SC        12/31/21  Winthrop              Not a priority team      0.0322581
+             0  Charlotte, NC               145  Raleigh,NC          1/1/22    North Carolina State  Florida State            0.399504
+             1  Charlotte, NC                29  Auburn,AL           12/29/21  Auburn                LSU                      0.568482
+             1  Charlotte, NC                68  Birmingham,AL       12/30/21  UAB                   UTEP                     1.06452
+             1  Charlotte, NC               111  Tampa,FL            1/1/22    South Florida         East Carolina            1.01639
+             2  Washington, DC                8  College Park,MD     12/28/21  Maryland              Not a priority team      0.16129
+             2  Washington, DC               64  Washington,DC       12/30/21  George Washington     St. Bonaventure          0.126103
+             2  Washington, DC              105  Towson,MD           12/31/21  Not a priority team   James Madison            0.0322581
+             2  Washington, DC              153  Norman,OK           1/1/22    Oklahoma              Kansas State             2
+             3  New York, NY                 17  East Lansing,MI     12/29/21  Michigan State        Not a priority team      0.580645
+             3  New York, NY                 48  Queens,NY           12/29/21  St. Johns (NY)        Marquette                0.280752
+             3  New York, NY                 86  Orlando,FL          12/30/21  UCF                   Michigan                 0.872025
+             3  New York, NY                102  New Rochelle,NY     12/31/21  Iona                  Not a priority team      0.0322581
+             3  New York, NY                132  Newark,NJ           1/1/22    Seton Hall            Villanova                0.360656
+             3  New York, NY                180  University Park,PA  1/2/22    Penn State            Indiana                  0.7266
+             4  Los Angeles, CA              11  San Francisco,CA    12/28/21  San Francisco         Not a priority team      1
+             4  Los Angeles, CA              56  Provo,UT            12/29/21  BYU                   Not a priority team      2
+             4  Los Angeles, CA              93  Los Angeles,CA      12/30/21  UCLA                  Arizona                  0.47541
+             4  Los Angeles, CA             122  Los Angeles,CA      1/1/22    Loyola Marymount      Gonzaga                  0.507668
+             4  Los Angeles, CA             184  Stanford,CA         1/2/22    Stanford              California               0.322581
